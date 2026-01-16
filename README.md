@@ -8,7 +8,7 @@ Learning materials and examples for Causal Bayesian Networks using [pgmpy](https
 - `causal-inference.md` - Causal inference concepts and do-calculus
 - `bayesian-network-basics.md` - Discrete Bayesian Network fundamentals
 - `create_dataset.py` - Synthetic startup dataset generator
-- `csv_way.py` - Example: learning from CSV data
+- `basic_example.py` - Example: learning from CSV data
 - `manual.py` - Example: manual CPD definition and inference
 
 ## Installation
